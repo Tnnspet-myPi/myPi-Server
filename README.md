@@ -11,5 +11,5 @@ DEBUG=mypi_server:* npm start
 
 Then in a web browser go to your localhost or loop back IP address
 ```
-http//localhost:3000
+http://localhost:3000/
 ```
