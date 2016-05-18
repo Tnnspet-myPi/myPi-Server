@@ -14,9 +14,13 @@ Then in a web browser go to your localhost or loop back IP address
 http://localhost:3000/
 ```
 
+#Links
+
+[GIT](http://rogerdudler.github.io/git-guide/)
+
+[Express](http://expressjs.com/en/starter/generator.html)
+
 #License 
 
 [MIT](LICENSE)
 
-[npm-image]: https://img.shields.io/npm/v/express-generator.svg
-[npm-url]: https://npmjs.org/package/express-generator
