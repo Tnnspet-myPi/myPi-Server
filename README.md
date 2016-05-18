@@ -13,3 +13,10 @@ Then in a web browser go to your localhost or loop back IP address
 ```
 http://localhost:3000/
 ```
+
+#License 
+
+[MIT](LICENSE)
+
+[npm-image]: https://img.shields.io/npm/v/express-generator.svg
+[npm-url]: https://npmjs.org/package/express-generator
